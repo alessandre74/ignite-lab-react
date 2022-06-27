@@ -3,12 +3,12 @@
 </div>
 
 <div align="center" style="padding-bottom:30px; background:transparent">
-<img src ="./assets/event-platform.gif" style="background:transparent" />
+<img src ="./src/assets/event-platform.gif" style="background:transparent" />
 </div>
 
 ## 💻 Projeto
 
-App Web Plataforma de Eventos desenvolvido na semana Ignite Lab da Rocketseat.
+App Web Plataforma de Evento desenvolvido na semana Ignite Lab da Rocketseat.
 
 ## 🚀 Tecnologias utilizadas
 
